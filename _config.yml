@@ -33,3 +33,4 @@ html:
 
 launch_buttons:
   colab_url: "https://colab.research.google.com"
+  binderhub_url: https://hub.ovh2.mybinder.org/user/cnca_cenat-talleres-scworkshop-1lcgapb9/lab
