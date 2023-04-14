@@ -1,4 +1,4 @@
-Example Jupyter Book website using GitLab Pages. 
+Example Jupyter Book website using GitLab Pages.  
 Learn more about GitLab Pages at https://about.gitlab.com/stages-devops-lifecycle/pages/ and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
 
