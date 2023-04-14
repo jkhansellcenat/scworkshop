@@ -15,6 +15,8 @@ Enlaces para información complementaria:
 * [Funciones en Python por Tutorials Point](https://www.tutorialspoint.com/python/python_functions.htm)
 * [Programación orientada a objetos en Python](https://www.programiz.com/python-programming/class)
 
+<br><br/>
+<br><br/>
 
 ## Material introductiorio del Taller
 [Presentación introductoria del curso.](./IntroduccionCCP.pdf)
