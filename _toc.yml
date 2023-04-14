@@ -2,7 +2,33 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
+root: content/general
+parts: 
+- caption: Introducción
+  chapters: 
+  - file: content/intro/repaso
+  - file: content/intro/bibsndocs
+  - file: content/intro/nbs/CC_IntroYBibliotecas
+- caption: NumPy
+  chapters:
+  - file: content/numpy/npmd
+  - file: content/numpy/nbs/numpy
+- caption: SciPy
+  chapters: 
+  - file: content/scipy/spmd
+  - file: content/scipy/nbs/scipy
+- caption: Pandas
+  chapters: 
+  - file: content/pandas/pdmd
+  - file: content/pandas/nbs/pandas 
+- caption: Matplotlib
+  chapters:
+  - file: content/matplotlib/pltmd
+  - file: content/matplotlib/nbs/matplotlib
+- caption: Prácticas finales
+  chapters:
+  - file: content/practice/nbs/npscipy
+  - file: content/practice/nbs/pandas
+  - file: content/practice/nbs/finalpractice
+
+
